@@ -5,7 +5,7 @@ The automation follows a strict trigger-action sequence:
 1.  **Trigger (Calendly):** Activates immediately when a new invitee books an appointment.
 2.  **Data Fetching:** Retrieves all attendee information, including custom questions (like Phone Number).
 3.  **Action (ClickUp):** Creates a new task in the **"Meetings"** list within the **"Testing"** space.
-![Uploading image.png…]()
+<img width="989" height="515" alt="image" src="https://github.com/user-attachments/assets/a12cdc0e-176e-44ba-9849-d6ef802f4ec6" />
 
 ## 📊 Data Mapping & Configuration
 I have configured the following fields to be dynamically populated:
