@@ -19,8 +19,4 @@ I have configured the following fields to be dynamically populated:
 - **Data Integrity:** Ensures all custom fields are validated before being pushed to ClickUp.
 - **Scalable:** Can be easily extended to include multiple team members or different meeting types.
 
-## 📦 Deliverables
-- **Blueprint:** The `.json` file containing the Make.com scenario logic is included in this repository.
-- **Screenshots:** Visual proof of successful execution and field mapping.
-
 ---
